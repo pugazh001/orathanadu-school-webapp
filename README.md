@@ -1,6 +1,5 @@
 # school ERP
-
-College ERP using MERN Stack
+school ERP using MERN Stack
 
 # Setup
 1. Create a .env file in server folder.
