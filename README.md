@@ -1,4 +1,4 @@
-# COLLEGE ERP
+# school ERP
 
 College ERP using MERN Stack
 
